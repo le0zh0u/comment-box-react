@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/le0zh0u/comment-box-react/issues"
   },
-  "homepage": "https://github.com/le0zh0u/comment-box-react#readme"
+  "homepage": "https://github.com/le0zh0u/comment-box-react#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
 }
