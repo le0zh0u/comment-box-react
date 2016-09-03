@@ -1,0 +1,23 @@
+{
+  "name": "comment-box-react",
+  "version": "1.0.0",
+  "description": "comment box by react",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/le0zh0u/comment-box-react.git"
+  },
+  "keywords": [
+    "react",
+    "express"
+  ],
+  "author": "le0zh0u",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/le0zh0u/comment-box-react/issues"
+  },
+  "homepage": "https://github.com/le0zh0u/comment-box-react#readme"
+}
