@@ -1,12 +1,27 @@
 [
-	{
-		"id": 1388534400000,
-		"author": "Pete Hunt",
-		"text": "Hey man there!"
-	},
-	{
-		"id": 1420070400000,
-		"author": "Paul O'Shannessy",
-		"text": "React is *great*!"
-	}
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey man there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O'Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1473253488854,
+        "author": "asdfasd",
+        "text": "asdfasdf"
+    },
+    {
+        "id": 1473253522592,
+        "author": "Leo Zhou",
+        "text": "Hello Leo!"
+    },
+    {
+        "id": 1473253754600,
+        "author": "Leo Zhou1",
+        "text": "Hello World!"
+    }
 ]
